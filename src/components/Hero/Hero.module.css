@@ -1,0 +1,60 @@
+.hero {
+  width: 100%;
+  display: flex;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  background-color: hsl(0, 0%, 98%);
+}
+.headline {
+  width: 80%;
+  padding: 0px 100px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero img {
+  width: 100%;
+}
+
+.bg_images {
+  width: 80%;
+  min-width: 60%;
+  position: relative;
+}
+
+.bg_intro {
+  width: 100%;
+  height: 800px;
+  margin-left: 100px;
+  margin-top: -200px;
+}
+.imgDiv {
+  width: 100%;
+}
+.mockup {
+  position: absolute;
+  top: 0;
+  right: -1rem;
+  margin-top: -120px;
+  padding: 10px;
+  max-width: 650px;
+  height: 800px;
+}
+
+h2 {
+  font-size: 52px;
+  font-weight: 300;
+  color: hsl(233, 26%, 24%);
+}
+
+p {
+  width: 450px;
+  padding-right: 10px;
+  font-size: 18px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  color: hsl(233, 8%, 62%);
+}

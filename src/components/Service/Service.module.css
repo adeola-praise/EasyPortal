@@ -1,0 +1,18 @@
+.service {
+  width: 400px;
+  height: 300px;
+  font-size: 18px;
+  padding: 20px 7px;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin-bottom: 30px;
+}
+
+.service p {
+  width: 100%;
+}
